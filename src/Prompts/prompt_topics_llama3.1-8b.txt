@@ -1,0 +1,163 @@
+[{"role": "system", "content":"
+You are an assistant for detecting newly introduced topic items (TOPICS) in transcripts.
+"},{"role": "user", "content":"
+TOPICS:
+TOPIC 1. Genehmigung der Tagesordnung
+TOPIC 2. Genehmigung des Protokolls der 8. Sitzung vom 20.05.2020
+TOPIC 3. Wissenschaft
+TOPIC 3.1. Das Deutsche Schifffahrtsmuseum als Forschungsstandort und Mitglied der Leibniz-Gemeinschaft vor dem Hintergrund der anstehenden Evaluierungdazu:Frau Prof. Dr. Kleingärtner, Direktorin des DSM
+TOPIC 3.2. Entwurf eines Gesetzes zur Änderung hochschulrechtlicher Bestimmungen im Zusammenhang mit den Anforderungen aus der Coronakrise (VL 20/1519)
+TOPIC 3.3. Aktueller Sachstand zur Besetzung der Rektorenstelle an der Hochschule Bremerhaven (VL 20/1518)
+TOPIC 3.4. Lernorte an Hochschulen während der Coronapandemie hier: Berichterstattung (VL 20/1524)
+TOPIC 3.5. Sachstandsbericht Sofortprogramm digitale Lehre und Studierendenservices (VL 20/1523)
+TOPIC 3.6. Situation von Studierenden mit Kindern während der Coronapandemie (VL 20/1531)
+TOPIC 3.7. Sanierung der universitären Sportstätten – Bericht zum aktuellen Sachstand (VL 20/1525)
+TOPIC 3.8. Aktueller Planungsstand zur Einführung des Studiengangs Sport (Berichtsbitte der Abg. Frau Dr. Eschen) zusammen mit TOP 3.7
+TOPIC 3.9. Einrichtung eines Bahnhaltepunktes im Bereich Bremen-Technologiepark/Universität (VL 20/1530)
+TOPIC 3.10. Beschlussfassung über den Ausschussbericht zu den Haushaltsentwürfen (Bestätigung der Beschlussfassung im Umlaufverfahrens)
+TOPIC 3.11. Verschiedenes Wissenschaft
+TOPIC 4. Medien - keine Themen -
+TOPIC 5. Datenschutz
+TOPIC 5.1. Gesetz zur Umsetzung der Richtlinie (EU) 2016/680 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten (Mitteilung des Senats vom 7.04.2020, Drs. 20/347)Überweisung durch die Bürgerschaft (Landtag) am 13. Mai 2020 zur Beratung und Berichterstattung an den Rechtsausschuss (federführend) und den WMDI (mitberatend)
+TOPIC 5.1.1. Stellungnahme zum Gesetz zur Umsetzung der Richtlinie (EU) 2016/680 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die zuständigen Behörden zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder Strafvollstreckung sowie zum freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates und der Richtlinie (EU) 2016/800 über Verfahrensgarantien für Kinder, die Verdächtige oder beschuldigte Personen in Strafverfahren sind, im Justizvollzug sowie zur Änderung vollzugsrechtlicher Vorschriften (Drs. 20/347) (VL 20/1489)
+TOPIC 6. Informationsfreiheit- keine Themen -
+TOPIC 7. Liste der Berichtsbitten des Ausschusses Wissenschaft, Medien, Datenschutz und Informationsfreiheit (Stand: 26.05.2020) (VL 20/1501)
+TOPIC 8. Verschiedenes
+
+SPEAKER_09:
+0.701: So, ganz herzlich willkommen zur heutigen Sitzung des WMDI zur 9. Sitzung.
+8.251: Ich möchte die Verspätung.
+10.242: Ich möchte um Entschuldigung bitten für die Verspätung.
+13.105: Es müssen noch ein paar Sätzen organisiert werden.
+15.007: Ich habe es auch noch einmal hier so ganz grob überschlagen.
+17.971: 40 Menschen dürfen sich in diesem Raum aufhalten.
+20.874: Das passt.
+22.836: Wir müssen wir alle ein bisschen drauf achten, dass auch beim raus und reingehen entsprechend die Abstände eingehalten werden.
+33.471: Zunächst einmal die Frage, ob es Punkte zur Tagesordnung gibt oder ob alle gut einverstanden sind.
+45.235: Das sieht nach Einverständnis aus.
+47.956: Dann kommen wir zum nächsten Tagesordnungspunkt, und zwar zur Genehmigung des Protokolls der achten Sitzung.
+55.418: Gibt es hierzu Anmerkungen oder Änderungswünsche?
+62.410: Das ist nicht der Fall.
+64.533: Dann treten wir jetzt hier mit ein in den Teilbereich Wissenschaft.
+70.120: Und da freue ich mich sehr, dass wir Frau Prof. Frau Kleingärtner heute hier haben als Gast.
+76.728: Die wird uns nochmal das Deutsche Schifffahrtsmuseum als Forschungsstandort und Mitglied der Leibniz-Gemeinschaft vorstellen.
+83.650: Normalerweise haben wir ja als Ausschuss außerhalb Corona viel besser die Möglichkeiten, auch nochmal Einrichtungen dort zu tagen und so weiter.
+95.353: Es ist momentan etwas eingeschränkt und deshalb freue ich mich, dass Sie nun den Weg hierher gefunden haben und uns von hier aus ein paar Informationen geben.
+104.985: Ungefähr 15 Minuten werden Sie uns jetzt berichten.
+109.390: Bitte schön.
+"},{"role": "assistant", "content":"
+Topics start at the following timestamps:
+
+TOPIC 1.: 33.471:
+TOPIC 2.: 47.951:
+TOPIC 3.: 64.533:
+TOPIC 3.1.: 70.120:
+TOPIC 3.2. not mentioned
+TOPIC 3.3. not mentioned
+TOPIC 3.4. not mentioned
+TOPIC 3.5. not mentioned
+TOPIC 3.6. not mentioned
+TOPIC 3.7. not mentioned
+TOPIC 3.8. not mentioned
+TOPIC 3.9. not mentioned
+TOPIC 3.10.: not mentioned
+TOPIC 3.11.: not mentioned
+TOPIC 4.: not mentioned
+TOPIC 5.: not mentioned
+TOPIC 5.1.: not mentioned
+TOPIC 5.1.1: not mentioned
+TOPIC 6.: not mentioned
+TOPIC 7.: not mentioned
+TOPIC 8.: not mentioned
+
+"},{"role": "user", "content":"
+TOPICS:
+TOPIC 1. Genehmigung des Protokolls der Sitzung des Ausschusses für Wissenschaft, Medien, Datenschutz, Informationsfreiheit und Digitalisierung vom 20. September 2023
+TOPIC 2. Auflösung der im Haushalt des Landes veranschlagten globalen Minderausgaben im Haushaltsvollzug 2023 – Teil 1
+TOPIC 3. Verschiedenes
+TOPIC 4. Auflösung einer veranschlagten globalen Minderausgabe im Produktplan 06
+TOPIC 5. Verschiedenes
+TOPIC 6. Informationsfreiheit
+TOPIC 7. Verschiedenes
+TOPIC 8. Digitalisierung
+TOPIC 9. Verschiedenes
+
+SPEAKER_07 :
+414.456: Ja, vielen Dank.
+416.069: Auch Frau Dr. Sommer gehe ich dann hinterher nochmal ein.
+418.931: Also erstmal bedanke ich mich, ich weiß, dass ich die Verursacherin bin, weil wir nicht dem Umlaufverfahren zugestimmt haben und gerne doch auch die Vorlage an einem Produktionen noch Erläuterung bedarf.
+432.802: Wir hatten ja ursprünglich mal eine Sitzung, die ist dann irgendwie abgesagt worden, deswegen jetzt nur die Sondersitzung.
+438.206: Herzlichen Dank, dass Sie alle gekommen sind, damit wir das hier nochmal aufrufen.
+442.449: In der Tat, die Senatorin hat es ja schon gesagt,
+445.024: Es ist ein großer Batzen, 70,2 und mit 20,7, also 21 haben wir ja fast, ein Drittel des Gesamtvolumens.
+451.608: Und das finde ich angesichts der Bedeutung des Wissenschaftsstandortes und des nicht ausfinanzierten Grundhaushaltes, dass der Wissenschaftsbereich eben schon eine, ja, für uns nicht zu akzeptieren, denn wir können sich alle denken, dass wir nicht zustimmen werden, wie in allen anderen Deputationen auch, wollen wir das doch auch nochmal dokumentiert und protokolliert wissen, dass wir diese Größenordnung nicht haben.
+476.139: Neben dem, und auch in der Vorlage steht, dass es ja an vielen Stellschrauben, Rückführung von, also Verschiebung und Verzögerung und eine ganze Menge Möglichkeiten gab, Zwischenfinanzierung, ähnliche Dinge, wenn man sich die Tabelle aber anguckt, dann tauchen uns schon so ein paar Fragen auf.
+494.142: Also zum Beispiel so ein Zuschuss an die Deutsche Forschungsgemeinschaft.
+498.986: Da steht dann verringerter Zuwendungsbedarf für die Exzellenzstrategie.
+501.968: Da gehen bei mir natürlich irgendwie alle Alarmglocken an, 180.000 Euro gegen Exzellenzstrategie zu vermindern, weiß ich nicht.
+508.774: Hochschulverstärkungsmittel, Streckund und Schiebung von Projekten auf Folgejahre, das sind auch 580.
+515.239: Oder allgemeine Budgetruflage, also sind ja auch 10,5 Millionen konsumtiv und 10,1 Millionen investiv, das ist ja eine ganze Menge.
+526.069: Insofern würde ich mich freuen, irgendwo haben wir Mitgliedsbeiträge einmal, Minderung aufgrund geringer Bedarfs, weil ich weiß von meinen Vereinen, wo ich Mitglied bin oder Gemeinschaft, dass ich nicht einfach irgendwie strecken kann oder nicht zahlen kann, entweder muss ich eine Mitgliedschaft kündigen oder, also das fand ich, also insofern habe ich da, Seute Deern interessiert mich ja auch immer unglaublich, da sind irgendwie plötzlich 160.000 über und die Maßnahme ist schon abgeschlossen gewesen und was ist Finanzierungsadress NHR, ist das der norddeutsche Höchstleistungsrechner, ist das NHR nur die Abkürzung, also da sind so ein paar Dinge.
+562.780: Was habe ich mir hier noch und dann beim investiven, da taucht gleich zweimal die Begründung aus, dass die Endabrechnung für die Max-Planck-Gesellschaft den Bau noch nicht erfolgt ist.
+574.403: Da sind also insgesamt 1,7, wenn man die zwei Positionen aus zwei Titeln zusammenzieht.
+581.046: Da würde ich einfach nochmal um Erläuterung bitten.
+583.066: Ich weiß nicht, ob wir sie einmal durchgehen, so wahnsinnig viel ist es ja nicht.
+"},{"role": "assistant", "content":"
+Topics start at the following timestamps:
+
+TOPIC 1.: not mentioned
+TOPIC 2.: not mentioned
+TOPIC 3.: not mentioned
+TOPIC 4.: not mentioned
+TOPIC 5.: not mentioned
+TOPIC 6.: not mentioned
+TOPIC 7.: not mentioned
+TOPIC 8.: not mentioned
+TOPIC 9.: not mentioned
+"},{"role": "user", "content":"
+TOPICS:
+TOPIC 1. Genehmigung der Tagesordnung
+TOPIC 2. Wissenschaft
+TOPIC 2.1. Auflösung der im Haushalt des Landes veranschlagten globalen Minderausgabe – Teil IIsowie Auflösung unabweisbarer dezentraler Budget- und Liquiditätsrisiken im Haushaltsvollzug 2023 (VL 21/1130)
+TOPIC 2.2. Handlungsfeld Klimaschutz - Mittelabflussprognose und Abrechnung zum 31. Dezember 2023 (VL 21/1131)
+TOPIC 2.3. Verschiedenes
+TOPIC 3. Medien
+TOPIC 3.1. Verschiedenes
+TOPIC 4. Datenschutz
+TOPIC 4.1. Auflösung der veranschlagten globalen Minderausgaben –Teil II sowie Auflösung unabweisbarer dezentraler Budget- und Liquiditätsrisiken im Haushaltsvollzug 2023hier: Beteiligung des Produktplans 06 (Datenschutz und Informationsfreiheit) (VL 21/1129)
+TOPIC 4.2. Verschiedenes
+TOPIC 5. Informationsfreiheit
+TOPIC 5.1. Verschiedenes
+TOPIC 6. Digitalisierung
+TOPIC 6.1. Verschiedenes
+
+SPEAKER_05:
+480.864: Danke schön.
+482.845: Gibt es Wortmeldungen dazu?
+486.329: Das ist nicht der Fall.
+488.509: Dann, wer möchte der Beschlussempfehlung folgen, den bitte ich einmal um das Handzeichen.
+494.491: Das ist die SPD, die Grüne und die Linke, die Gegenprobe, CDU und FDP.
+501.272: Und damit sind Enthaltungen ja auch nicht mehr möglich.
+504.173: Wunderbar.
+505.913: Dann haben wir noch Top 4.2 Verschiedenes.
+509.074: Keine Wortmeldung, Top 5 Informationsvorgaben und Top 5.1 Informationsfreiheit Verschiedenes, auch keine Wortmeldung.
+517.734: Top 6 Digitalisierung, keine Wortmeldung.
+522.119: 6.1 Verschiedenes Digitalisierung, auch keine Wortmeldung.
+524.802: Da bedanke ich mich ganz herzlich für die Teilnahme und wünsche noch eine schöne Mittagspause.
+"},{"role": "assistant", "content":"
+Topics start at the following timestamps:
+
+TOPIC 1.: not mentioned
+TOPIC 2.: not mentioned
+TOPIC 2.1.: not mentioned
+TOPIC 2.2.: not mentioned
+TOPIC 2.3.: not mentioned
+TOPIC 3.: not mentioned
+TOPIC 3.1.: not mentioned
+TOPIC 4.: not mentioned
+TOPIC 4.1.: not mentioned
+TOPIC 4.2.: 505.913
+TOPIC 5.: 509.074
+TOPIC 6.: 517.734
+TOPIC 6.1.: 522.119
+"}]

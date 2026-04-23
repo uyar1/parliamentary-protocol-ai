@@ -1,0 +1,19 @@
+# PFAD "\bb_backend_llm" und so
+
+
+# conda environment erstellen bla
+conda create --prefix ./.conda python=3.12
+
+# 'y' als yes drücken
+
+# conda environment aktivieren
+conda activate ./.conda
+
+# uvicorn
+conda install -c conda-forge uvicorn
+
+# ollama
+pip install ollama
+
+# FastAPI
+conda install -c conda-forge fastapi

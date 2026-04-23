@@ -1,0 +1,13 @@
+[
+	{"role": "system", "content":
+"
+Du erhälst ein Transkript und eine Zusammenfassung.
+Das Transkript hat Zeitstempel und in der Zusammenfassung fehlen Zeitstempel.
+Ordne die Zeitstempel des Transkripts richtig in die Zusammenfassung ein.
+Platziere passende Zeitstempel (123.456) in Klammern an Satzanfängen der gegebenen Zusammenfassung.
+Gebe ausschließlich die neue Zusammenfassung zurück.
+Platziere ausschließlich die Zeitstempel!
+Verändere die Zusammenfassung ansonsten nicht!
+"
+	}
+]

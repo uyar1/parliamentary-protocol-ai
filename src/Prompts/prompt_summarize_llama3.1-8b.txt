@@ -1,0 +1,109 @@
+[
+	{"role": "system", "content":
+"
+"
+	},
+	{"role": "user", "content":
+"
+SPEAKER_04:
+934.033: Das heißt, viele von den Themen, die hier drauf sind, sind natürlich auch nur kurzfristig gelöst und fallen uns irgendwann wieder auf die Füße, um das mal so zu sagen.
+943.563: Gestolpert, was ich auch noch spannend fand, ist 2,3 Millionen Spielbankabgabe.
+948.872:  Was das im Wissenschaftshaushalt irgendwie hat für mich wenig mit Spielbank zu tun.
+954.856: Insofern bin ich da auch drüber gespannt.
+957.157: Und da noch gleich 3 Millionen.
+961.040: 2,3.
+"
+	},
+	{"role": "assistant", "content":
+"
+(934.033)SPEAKER_04 stellt fest, es gehe hier also nur um kurzfristige Lösungen, da das Geld ja irgendwann doch zur Verfügung gestellt werden müsse. (943.563)2,3 Millionen Euro Spielbankabgabe sollen überraschend gewesen sein.
+"
+	},
+	{"role": "user", "content":
+"
+SPEAKER_07:
+1218.773: Konkret sagen kann ich es auch nicht.
+1219.794: Ich meine, ich habe es im Hinterkopf, dass es zumindest, weil es ja auch diese Land-Stadt-Trennung ist, wir haben ja auch das, warum wir so einen großen Anteil haben, weil wir sind nur im Landeshaushalt.
+1228.421: Und die sind leider auch, diese globale Minderausgabe, nur im Landeshaushalt veranschlagt wurde, aber nicht im Stadthaushalt.
+1237.148: Und der Wissenschaftshaushalt ist ja zu 100% im Landeshaushalt.
+1242.052: Deswegen ist es auch so, dass zum Beispiel, ich glaube Kinderbildung ist halt nur zum einen einen gewissen Teil im Landeshaushalt, ganz viel ist im Stadthaushalt dabei.
+1250.451: Jene und sonst was müsste eigentlich auch, also Gesundheit müsste auch zum großen Teil im Stadthaushalt sein.
+1254.754: Wo viele große Ausgaben letztendlich sind, große Ausgaben wirken.
+1260.038: Und da wir komplett im Landeshaushalt sind, ist es halt auch so, dass wir diesen großen Anteil davon haben.
+1264.841: Ich meine, gerade diese Landstatttreibung war das schon, aber ich kann es Ihnen nicht wirklich beantworten, Leute.
+"
+	},
+	{"role": "assistant", "content":
+"
+(1218.773)SPEAKER_07 ergänzt, kein Beispiel werde gekannt. (1228.421)Eine globale Minderausgabe werde nur im Landeshaushalt veranschlagt und der Wissenschaftshaushalt sei zu 100 Prozent im Landeshaushalt und deshalb sei der Anteil zur Auflösung der Minderausgabe auch so hoch.
+"
+	},
+	{"role": "user", "content":
+"
+SPEAKER_07:
+597.196: Ich fange an.
+598.217: Ich habe ja auch ein bisschen mitgeschrieben Frau Rubin, was Sie gesagt haben, wozu da manchmal sonst ein Geheimnis ist.
+605.481: Wir können zu jeder Stelle natürlich sagen, was dahinter steckt und warum wir das für möglich halten.
+610.523: Zum einen haben Sie gesagt, die FG mit unserer Exzellenzstrategie, es ist tatsächlich so, dass wir da Haushaltsanschlag haben von, das sind jetzt 2,5 Millionen Euro, was wir jedes Jahr zahlen müssen aus unserem Beitrag.
+623.247: Das wird aber jedes Jahr neu festgesetzt, je nachdem, wie denn die Abflüsse an die Exzellenz-Universitäten und Exzellenz-Cluster tatsächlich sind.
+633.541: Und da ist es tatsächlich so, dass wir dieses Jahr 180.000 Euro weniger an die DFG zahlen müssen.
+637.584: Im Endeffekt, in den nächsten Jahren, wenn es abläuft, werden wir natürlich unsere Gesamtsumme zahlen müssen.
+641.646: Deswegen ist das immer dieses Spiel, was wir haben, natürlich in vielen Bereichen.
+646.229: Wir stellen unseren Haushalt auf, stellen dann die Summen, die dann klar sind, stellen wir ein.
+651.192: Und in einigen Bereichen haben wir mehr Bedarfe, dann müssen wir etwas verschieben, in anderen Bereichen haben wir mindere Bedarfe.
+655.475: Je nachdem, welche Größenordnungen das sind, kennen Sie das auch, dann kommen die Nachbewilligungen, die einen Beschluss brauchen, sowohl vom Hafer als auch vom WMDID.
+670.471: Genau, das sind so, wie gesagt, hier ist es in dem Fall positiv für uns dieses Jahr, dass wir da weniger zahlen müssen.
+676.418: Klar, in dem nächsten Jahr werden wir das wieder draufzahlen, wieder zahlen müssen, also im Gesamtzahlen.
+680.896: Hochschulverstärkungsmittel hatten Sie gesagt, dass es sowohl Hochschulverstärkungsmittel als auch bei der investierenden Seite, aber auch da Hochschulverstärkungsmittel als auch andere von Projektfinanzierung, das ist unsere Haushaltsstelle, sind unsere Haushaltsstellen, wo wir tatsächlich Projektfinanzierung für Forschungsprojekte draus finanzieren können.
+706.338: Da haben wir, weil wir es halt wussten, dass in diesem Jahr auch was auf uns zukommen kann vom Most-of-Supply, dass es eine zentrale Lösung gibt, die wesentlich größer ist, deswegen haben wir da auch schon sehr restriktiv gehandelt und haben so wenig wie möglich finanziert an neuen Sachen.
+722.767: Wir haben nichts, wo wir sagen, okay, das sehen wir als tatsächlich ganz existenziell und das muss dieses Jahr, sondern wir haben gesagt, können wir es verschieben, kann es im nächsten Jahr sein.
+732.111: Da werden zum Beispiel sowas daraus bezahlen, wie das Leibniz-Wissenschaftskampus.
+738.494: Da wird beteiligt, ist das an solche Projekte, die auch teilweise sehr kurzfristig kommen, wo wir dann die Möglichkeit haben, auch wirklich kurzfristig zu reagieren und die meistens Kofinanzierung aus dem bremischen Haushalt darzustellen.
+754.242: Wie viel gesellschaftliche Zusammenarbeit oder KI-Projekte finanzieren wir daraus?
+758.626: Und da haben wir zum einen geguckt, wie ist der Stand der Projekte?
+763.369: Wie ist unter Umständen der Mittelstand auch aus dem Vorjahr?
+766.191: Können wir was zurückfordern?
+767.672: Müssen wir was zurückfordern?
+768.553: Das tun wir sowieso immer, aber wir haben natürlich genau hingeguckt und was müssen wir dieses Jahr finanzieren und was ist vielleicht auch in den nächsten Jahren zu finanzieren.
+776.657: Da sind wir dann, wenn man sich genauer anguckt, auf diese Summen gekommen, wo wir sagen, das ist machbar, das ist mit allen Projekten immer abgestimmt, dass das so funktioniert, dass wir sagen, so kann es funktionieren, ohne dass wir auch da nichts kaputt machen.
+791.184: Was hatten wir noch?
+791.824: Seute Deern?
+793.365: Ja, die ist mittlerweile Geschichte und am Rückbau Seute Deern war damals das Agreement mit Bremerhaven, dass es von Bremerhaven und Bremen gezahlt wird.
+805.440: Das war 2022, glaube ich, abgeschlossen, am Ende 2022.
+"
+	},
+	{"role": "assistant", "content":
+"
+(610.523)SPEAKER_07 teilt mit, zur Exzellenzstrategie gebe es einen Haushaltsanschlag von 2,5 Millionen Euro, der jährlich neu festgelegt werde, je nachdem, wie die Abflüsse an die Exzellenzuniversitäten und Exzellenzcluster tatsächlich seien. (633.541)In diesem Jahr sei es so gewesen, dass 180.000 Euro weniger gezahlt werden mussten. (651.192)Es gebe Jahre mit Mehrbedarfen und es gebe Jahre mit Minderbedarfen. (680.896)Bei den Hochschulverstärkungsmitteln gehe es auch auf der investiven Seite um Anlauf- und Projektfinanzierung. Das seien Haushaltsstellen wo tatsächlich Projektfinanzierung für Forschungsprojekte finanziert werden können. (706.338)Das Ressort habe dort sehr restriktiv gehandelt und so wenig wie möglich an neuen Sachen finanziert. (722.767)Es sei geschaut worden, ob es um existenzielle Angelegenheiten gehe oder ob es auf das nächste Jahr verschoben werden könne. (732.111)Daraus würden zum Beispiel solche Sachen bezahlt wie das Leibniz-WissenschaftsCampus oder Beteiligungsprojekte, die teilweise sehr kurzfristig kämen. (738.494)Dann bestünde die Möglichkeit, zügig zu reagieren und die Kofinanzierung aus dem bremischen Haushalt darzustellen, wie gesellschaftliche Zusammenarbeit oder KI-Projekte. (758.626)Dort sei geschaut worden, wie der Stand der Projekte sei, ob etwas zurückgefordert werden könne, was in diesem Jahr finanziert werden müsse und was im nächsten Jahr. (805.440)Natürlich sei die Maßnahme „Seute Deern“ abgeschlossen. (793.365)Es habe aber die Vereinbarung mit Bremerhaven gegeben, dass der Rückbau sowohl von Bremen als auch von Bremerhaven bezahlt werde.
+"
+	},
+	{"role": "user", "content":
+"
+SPEAKER_07 :
+414.456: Ja, vielen Dank.
+416.069: Auch Frau Dr. Sommer gehe ich dann hinterher nochmal ein.
+418.931: Also erstmal bedanke ich mich, ich weiß, dass ich die Verursacherin bin, weil wir nicht dem Umlaufverfahren zugestimmt haben und gerne doch auch die Vorlage an einem Produktionen noch Erläuterung bedarf.
+432.802: Wir hatten ja ursprünglich mal eine Sitzung, die ist dann irgendwie abgesagt worden, deswegen jetzt nur die Sondersitzung.
+438.206: Herzlichen Dank, dass Sie alle gekommen sind, damit wir das hier nochmal aufrufen.
+442.449: In der Tat, die Senatorin hat es ja schon gesagt,
+445.024: Es ist ein großer Batzen, 70,2 und mit 20,7, also 21 haben wir ja fast, ein Drittel des Gesamtvolumens.
+451.608: Und das finde ich angesichts der Bedeutung des Wissenschaftsstandortes und des nicht ausfinanzierten Grundhaushaltes, dass der Wissenschaftsbereich eben schon eine, ja, für uns nicht zu akzeptieren, denn wir können sich alle denken, dass wir nicht zustimmen werden, wie in allen anderen Deputationen auch, wollen wir das doch auch nochmal dokumentiert und protokolliert wissen, dass wir diese Größenordnung nicht haben.
+476.139: Neben dem, und auch in der Vorlage steht, dass es ja an vielen Stellschrauben, Rückführung von, also Verschiebung und Verzögerung und eine ganze Menge Möglichkeiten gab, Zwischenfinanzierung, ähnliche Dinge, wenn man sich die Tabelle aber anguckt, dann tauchen uns schon so ein paar Fragen auf.
+494.142: Also zum Beispiel so ein Zuschuss an die Deutsche Forschungsgemeinschaft.
+498.986: Da steht dann verringerter Zuwendungsbedarf für die Exzellenzstrategie.
+501.968: Da gehen bei mir natürlich irgendwie alle Alarmglocken an, 180.000 Euro gegen Exzellenzstrategie zu vermindern, weiß ich nicht.
+508.774: Hochschulverstärkungsmittel, Streckund und Schiebung von Projekten auf Folgejahre, das sind auch 580.
+515.239: Oder allgemeine Budgetruflage, also sind ja auch 10,5 Millionen konsumtiv und 10,1 Millionen investiv, das ist ja eine ganze Menge.
+526.069: Insofern würde ich mich freuen, irgendwo haben wir Mitgliedsbeiträge einmal, Minderung aufgrund geringer Bedarfs, weil ich weiß von meinen Vereinen, wo ich Mitglied bin oder Gemeinschaft, dass ich nicht einfach irgendwie strecken kann oder nicht zahlen kann, entweder muss ich eine Mitgliedschaft kündigen oder, also das fand ich, also insofern habe ich da, Seute Deern interessiert mich ja auch immer unglaublich, da sind irgendwie plötzlich 160.000 über und die Maßnahme ist schon abgeschlossen gewesen und was ist Finanzierungsadress NHR, ist das der norddeutsche Höchstleistungsrechner, ist das NHR nur die Abkürzung, also da sind so ein paar Dinge.
+562.780: Was habe ich mir hier noch und dann beim investiven, da taucht gleich zweimal die Begründung aus, dass die Endabrechnung für die Max-Planck-Gesellschaft den Bau noch nicht erfolgt ist.
+574.403: Da sind also insgesamt 1,7, wenn man die zwei Positionen aus zwei Titeln zusammenzieht.
+581.046: Da würde ich einfach nochmal um Erläuterung bitten.
+583.066: Ich weiß nicht, ob wir sie einmal durchgehen, so wahnsinnig viel ist es ja nicht.
+"
+  },
+  {"role": "assistant", "content":
+"
+(610.523)SPEAKER_07 merkt an, 70,2 Millionen Euro sei angesichts der großen Bedeutung des Wissenschaftsstandortes und des nicht finanzierten Grundhaushaltes eine große Menge. Es handle sich um fast ein Drittel des Gesamtvolumens. Die CDU könne der Auflösung der globalen Minderausgabe deswegen nicht zustimmen. Zum Beispiel könne nicht verstanden werden, dass der Zuschuss an die Deutsche Forschungsgemeinschaft um 180000Euro verringert werden solle und es einen verringerten Zuwendungsbedarf für die Exzellenzstrategie gebe. Auch die Begrenzung der Hochschulverstärkungsmittel könne nicht nachvollzogen werden, insbesondere die dortige Einsparung in Höhe von über 580000Euro durch Streckung und Verschiebung von Projekten auf Folgejahre. Auch die Einsparung bei der allgemeinen Budgetrücklage in Höhe von 10,5 Millionen konsumtiv und 10,1 Millionen investiv sei sehr viel. Einmal gehe es auch um Mitgliedsbeiträge – eine Minderausgabe aufgrund geringeren Bedarfs. Für den Rückbau der „Seute Deern“ seien knapp 160000Euro über, die Maßnahme sei doch bereits abgeschlossen. Was bedeute Finanzierungsanteil am NHR, sei dies der norddeutsche Höchstleistungsrechner, was bedeute die Abkürzung? Bei den investiven Ausgaben tauche gleich zweimal die Begründung auf, dass die Endabrechnung für den Bau bei der Max-Planck-Gesellschaft noch nicht erfolgt sei beziehungsweise sich verzögere. Wenn man die zwei Positionen zusammenrechne, gehe es um 1,7 Millionen Euro. Dazu hätte die Person gern eine Erläuterung.
+"
+	}
+]

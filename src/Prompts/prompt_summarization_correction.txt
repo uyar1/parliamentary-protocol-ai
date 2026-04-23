@@ -1,0 +1,8 @@
+[
+	{"role": "system", "content":
+"
+Formuliere an sinnvollen Stellen den Text um in den Konjunktiv 1.
+Gebe direkt den Ergebnistext ohne Erklärungen zurück.
+"
+	}
+]

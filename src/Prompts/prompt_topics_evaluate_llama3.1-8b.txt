@@ -1,0 +1,71 @@
+[{"role": "system", "content":"
+You are an assistant for detecting evaluating introduced topic items (TOPICS) in transcripts created from another LLM.
+Evaluate the right LLM assignment based on contexts in the transcript.
+Do a thinking process and reflect on your answer and cite to the transcription to explain your answer first and at the end reply in the format TOPIC_ID: LLM 1_OR_2.
+Analyze the transcript by context and not by it's timestamp.
+
+Choose exactly one topic by one LLM.
+"},{"role": "user", "content":"
+TOPICS:
+TOPIC 1. Genehmigung der Tagesordnung
+TOPIC 2. Wissenschaft
+TOPIC 2.1. Auflösung der im Haushalt des Landes veranschlagten globalen Minderausgabe – Teil IIsowie Auflösu
+TOPIC 2.2. Handlungsfeld Klimaschutz - Mittelabflussprognose und Abrechnung zum 31. Dezember 2023 (VL 21/113
+TOPIC 2.3. Verschiedenes
+TOPIC 3. Medien
+TOPIC 3.1. Verschiedenes
+TOPIC 4. Datenschutz
+TOPIC 4.1. Auflösung der veranschlagten globalen Minderausgaben –Teil II sowie Auflösung unabweisbarer dezen
+TOPIC 4.2. Verschiedenes
+TOPIC 5. Informationsfreiheit
+TOPIC 5.1. Verschiedenes
+TOPIC 6. Digitalisierung
+TOPIC 6.1. Verschiedenes
+
+
+
+Transcript from LLM1:
+SPEAKER_05:
+0.703: Dann begrüße ich alle zu unserer Sondersitzung des WMDID.
+5.484: Und ich würde sagen, wir starten direkt mit der Tagesordnung.
+10.146: Die Tagesordnung liegt Ihnen vor.
+12.826: Erhebt sich dagegen Widerspruch so zu Verfahren?
+18.388: Das sehe ich nicht, denn ist die Tagesordnung damit genehmigt.
+23.469: Und wir kommen zum Top 2 Wissenschaft.
+27.692: Top 2.1 Auflösung der im Haushalt des Landes veranschlagten globalen Minderausgaben und so weiter.
+34.837: Möchte das Ressort dazu einführen?
+
+Topics evaluation with timestamps from LLM1:
+TOPIC 2.1.: 27.692
+
+
+
+Transcript from LLM2:
+SPEAKER_05:
+480.864: Danke schön.
+482.845: Gibt es Wortmeldungen dazu?
+486.329: Das ist nicht der Fall.
+488.509: Dann, wer möchte der Beschlussempfehlung folgen, den bitte ich einmal um das Handzeichen.
+494.491: Das ist die SPD, die Grüne und die Linke, die Gegenprobe, CDU und FDP.
+501.272: Und damit sind Enthaltungen ja auch nicht mehr möglich.
+504.173: Wunderbar.
+505.913: Dann haben wir noch Top 4.2 Verschiedenes.
+509.074: Keine Wortmeldung, Top 5 Informationsvorgaben und Top 5.1 Informationsfreiheit Verschiedenes, auch
+517.734: Top 6 Digitalisierung, keine Wortmeldung.
+522.119: 6.1 Verschiedenes Digitalisierung, auch keine Wortmeldung.
+524.802: Da bedanke ich mich ganz herzlich für die Teilnahme und wünsche noch eine schöne Mittagspause.
+
+Topics evaluation with timestamps from LLM2:
+TOPIC 2.1.: 501.074
+
+
+From all TOPICs decide which LLM has the best timestamp assignment. Either LLM1 or LLM2. Pay attention to text context.
+Do a thinking process and reflect on your answer and cite to the transcription to explain your answer first and at the end reply in the format TOPIC_ID: LLM1_OR_2.
+Analyze the transcript by context and not by it's timestamp.
+"},{"role": "assistant", "content":"
+LLM1 called at the timestamp 27.692 for TOPIC 2.1. the \"Top 2.1\". Also LL1 refers to the \"Auflösung der im Haushalt des Landes veranschlagten globalen Minderausgaben\" which is the TOPIC \"TOPIC 2.1. Auflösung der im Haushalt des Landes veranschlagten globalen Minderausgabe – Teil IIsowie Auflösu\".
+LLM2 on the other hand talks at 501.272 about \"Enthaltungen\" and that they are not possible anymore.
+There I choose it from LLM1.
+
+LLM1: TOPIC 2.1.
+"}]

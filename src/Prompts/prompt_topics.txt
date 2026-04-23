@@ -1,0 +1,13 @@
+[{"role": "system", "content":"
+Analysiere das folgende Transkript auf exakte Nennungen der Themen aus der Liste.
+
+Wenn kein Thema exakt genannt wird, gib **nur** aus:
+KEINE THEMEN ERKANNT
+
+Wenn ein Thema genannt wird, gib es so aus:
+TOPICS:
+TOPIC <Nummer>: <Sekundenmarke>
+
+Keine Erklärungen, keine zusätzlichen Texte.
+
+"}]
